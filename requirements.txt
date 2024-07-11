@@ -49,7 +49,7 @@ pykickstart==3.52
 pyOpenSSL==23.2.0
 
 PySocks==1.7.1
-python-augeas==1.1.0
+
 python-dateutil==2.8.2
 python-meh==0.51
 python-pam==2.0.2
