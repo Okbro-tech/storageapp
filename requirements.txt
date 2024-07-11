@@ -1,8 +1,7 @@
 
 asgiref==3.8.1
 beautifulsoup4==4.12.3
-boto3==1.34.138
-botocore==1.34.138
+
 cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
@@ -20,8 +19,8 @@ idna==3.7
 iso639==0.1.4
 jmespath==1.0.1
 langtable==0.0.67
-libcomps==0.1.20
-libdnf==0.73.2
+
+
 
 lxml==5.1.0
 Mako==1.2.3
@@ -78,5 +77,5 @@ systemd-python==235
 Tempita==0.5.2
 typing_extensions==4.9.0
 urllib3==1.26.19
-virtualenv==20.26.3
+
 xkbregistry==0.3
