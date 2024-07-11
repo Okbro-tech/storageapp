@@ -61,9 +61,7 @@ regex==2024.4.16
 requests==2.31.0
 requests-file==2.0.0
 requests-ftp==0.3.1
-rpm==4.19.1.1
-rpmautospec==0.6.5
-rpmautospec-core==0.1.5
+
 s3transfer==0.10.2
 setools==4.5.1
 setuptools==69.0.3
