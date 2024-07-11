@@ -63,9 +63,9 @@ requests-file==2.0.0
 requests-ftp==0.3.1
 
 s3transfer==0.10.2
-setools==4.5.1
-setuptools==69.0.3
-simpleaudio==1.0.4
+
+
+
 simpleline==1.9.0
 six==1.16.0
 sos==4.7.2
@@ -76,4 +76,4 @@ Tempita==0.5.2
 typing_extensions==4.9.0
 urllib3==1.26.19
 
-xkbregistry==0.3
+
