@@ -51,7 +51,7 @@ pyOpenSSL==23.2.0
 PySocks==1.7.1
 
 python-dateutil==2.8.2
-python-meh==0.51
+
 python-pam==2.0.2
 python-utils==3.7.0
 pyudev==0.24.1
