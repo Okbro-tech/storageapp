@@ -44,6 +44,7 @@ pycrypto==2.6.1
 pycups==2.0.4
 pyenchant==3.2.2
 pygit2==1.14.0
+pygobject
 PyGObject==3.48.2
 pykickstart==3.52
 pyOpenSSL==23.2.0
