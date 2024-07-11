@@ -23,6 +23,7 @@ fedora-third-party==0.10
 file-magic==0.4.0
 filelock==3.15.4
 fros==1.1
+gunicorn==22.0.0
 humanize==3.13.1
 idna==3.7
 iso639==0.1.4
