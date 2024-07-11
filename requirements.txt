@@ -47,7 +47,7 @@ pygit2==1.14.0
 
 pykickstart==3.52
 pyOpenSSL==23.2.0
-pyparted==3.13.0
+pyparted==3.12.0
 PySocks==1.7.1
 python-augeas==1.1.0
 python-dateutil==2.8.2
